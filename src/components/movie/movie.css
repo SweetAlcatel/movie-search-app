@@ -1,0 +1,10 @@
+img {
+    width: 200px;
+}
+
+.pages-of-movie {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
