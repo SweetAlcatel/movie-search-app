@@ -5,6 +5,7 @@ form {
 }
 
 .inputs {
+    height: 20px;
     display: flex;
     justify-content: center;
 }
@@ -16,5 +17,6 @@ form {
 }
 
 span {
-    font-size: 16px;
+    margin-top: 1%;
+    font-size: 15px;
 }
